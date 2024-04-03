@@ -1,5 +1,5 @@
 
-@aluevano/git-change-date
+@aluevano/change-git-date
 =====
 
 Simple command line to change old commits author and committer dates.
@@ -11,7 +11,7 @@ An updated fork of [@kareemaly/git-change-date](https://github.com/kareemaly/git
 ## Installation
 
 ```
-npm install -g @vanyasem/git-change-date
+npm install -g @aluevano/git-change-date
 ```
 
 ## CLI Usage
